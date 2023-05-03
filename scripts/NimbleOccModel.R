@@ -199,8 +199,8 @@ getFocalOcc<-nimbleFunction(
 #load("DATA.Rdata")
 N<-766
 T<-18
-J1<-10 #####change this to reflect how many
-#runNimbleFunction<-function( N, T, J1, n.iter, n.thin, n.burn){
+J1<-100 #####change this to reflect how many
+
 Jmvec<-array(dim=c(N,T))
 for(i in 1:N){
   for(t in 1:T){

@@ -1,4 +1,4 @@
-all<-read.csv("data/all_occ_data.csv")
+#all<-read.csv("data/all_occ_data.csv") 'all' data upon request
 
 
 # add one to observations, so 0 becomes 1, 1 -> 2, for use in the model
