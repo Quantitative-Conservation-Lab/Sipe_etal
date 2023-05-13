@@ -7,7 +7,7 @@ Ecosphere
 
 Please contact the first author for questions about the code or data: Hannah Sipe (sipeh@uw.edu). 
 
-####Citation
+#### Citation
 Sipe HA, IN Keren, and SJ Converse. 2023. Integrating community science and agency-collected monitoring data to expand monitoring capacity at large spatial scales. Ecosphere. 
 
 #### Abstract
