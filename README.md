@@ -5,7 +5,7 @@ Sipe HA, IN Keren, and SJ Converse
 
 Ecosphere
 
-Please contact the first author for questions about the code or data: Hannah Sipe (sipeh@uw.edu). 
+Please contact the first author for questions about the code or data: Hannah Sipe (sipeh369@gmail.com). 
 
 #### Citation
 Sipe HA, IN Keren, and SJ Converse. 2023. Integrating community science and agency-collected monitoring data to expand monitoring capacity at large spatial scales. Ecosphere. 
