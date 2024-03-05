@@ -126,7 +126,7 @@ mod<-nimbleCode({
       #function to get the previous z for each site
       m[i,t]<-getFocalOcc(z[i,t-1])
       logit(psi[i,t])<-alpha +epsilon_i[i]+epsilon_t[t]+
-        gamma.focal*m[i]+
+        gamma.focal*m[i,t]+
         beta.elev*elev[i]+
         beta.pc*pc[i]+
         beta.hii*hii[i]+
